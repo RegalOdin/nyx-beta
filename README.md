@@ -89,7 +89,8 @@ updates install over each other.
 | Slide on the spacebar | Move the cursor. The bar offers fixes for each word you pass |
 | Slide left on backspace | Select text to delete. Slide back to take some back, lift to delete |
 | Backspace right after a word | Deletes the whole word; after a space, one character |
-| Hold the period | `. ? !` |
+| Hold the period | `. , ? !` |
+| Double-tap space | `. ` to end a sentence |
 | Hold the left end of the spacebar | Switch language |
 | Long-press a suggestion | Offer to add it to your dictionary |
 | Drag the handle on the suggestion bar | Resize the keyboard |
@@ -98,7 +99,7 @@ Also:
 
 - **Emoji page** with eight tabs of thirty (no endless scrolling) and recents.
 - **Typing speed** in words per minute on the right of the spacebar.
-- **Stacked suggestions** (optional): the last few words of the sentence,
+- **Stacked suggestions** (on by default, can be switched off): the last few words of the sentence,
   each with its two runners-up above and below, so you can fix an earlier
   word with a flick.
 - **Your own colours**: pick three (keys, lettering, accent) and Nyx works
