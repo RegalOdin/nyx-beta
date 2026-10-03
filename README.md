@@ -81,8 +81,9 @@ updates install over each other.
 
 | Do this | To get |
 |---|---|
-| Hold a letter | Its accents (`n` → `ñ`), plus any snippets saved on it |
-| Select text, then hold a letter | Save the selection on that key as a snippet (up to three per key) |
+| Hold a letter | Its accents (`n` → `ñ`), plus the snippet saved on it |
+| Select text, then hold a letter | Save the selection on that key as a snippet (one per key) |
+| Hold space, tap a letter | Paste that key's snippet |
 | Hold shift | **Title** the last word, or the one the cursor is on. Keep holding for **CAPS**. Do it again to undo |
 | Double-tap shift | Caps lock (the dot on the key means it's on) |
 | Slide on the spacebar | Move the cursor. The bar offers fixes for each word you pass |
