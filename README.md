@@ -134,10 +134,6 @@ The source code isn't public.
 ## Credits
 
 - **Nintype**, for showing what two-thumb typing could be.
-- **[Kinetica](https://github.com/EZ-eta/kinetica)** by EZ-eta, the other
-  Nintype successor. Nyx's engine was rebuilt around an idea Kinetica
-  showed works: merging the two thumbs by timestamp. Nyx is a separate
-  codebase and contains none of Kinetica's code.
 - Word frequencies from
   [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords)
   (MIT), counted from OpenSubtitles.
